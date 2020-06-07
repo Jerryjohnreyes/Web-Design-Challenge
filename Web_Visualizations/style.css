@@ -1,0 +1,63 @@
+.header_bg{
+    background-color: rgb(11, 187, 163);
+}
+
+.box {
+    padding: 100px 10px 0 10px;
+    background-color: rgb(248, 246, 246);
+}
+
+.customize_color{
+    background-color: rgb(0, 128, 117);
+}
+
+img{
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.ctn-visualizations img{
+    width: 210px;
+    column-width: auto;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.landing-margin{
+    margin-bottom: 20px;
+}
+
+.mxTemperature-img img{
+    width: 600px;
+}
+.vs img{
+    width: 150px;
+    column-width: auto;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.downmargin{
+    margin-bottom: 100px;
+}
+
+.upmargin{
+    margin-top: 100px;
+}
+
+.visualBox{
+    border-style: solid;
+    border-color:  rgb(0, 128, 117);
+}
+
+.comp-margin{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.comp-margin img{
+    width: 600px
+}
